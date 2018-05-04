@@ -118,3 +118,16 @@ function init() {
 //document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>';
 
 //var x = document.querySelector('#score-0').textContent;
+
+
+//Tweak the rules:
+
+//1. A player loses their entire score when they roll two six in a row.  After that, it's the next players turn. 
+//(Hint: always save the previous dice role in a seperate variable)
+
+//2. Add an input field into the HTML where the players can set the winning score, so they can set the pre-defined score of 100.  
+//(Hint: You can read that value with the .value property in JavaScript.  Use Google if need be).
+
+
+//3. Add another dice to the game, so that there are two die. The player loses their current score when one of them is a one. 
+//(Hint: You will need CSS to position the die - look at the CSS code for the first one or check out solution 3 if you need an explanation).

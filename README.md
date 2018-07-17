@@ -1,8 +1,6 @@
 # jayfiled.github.io
-Git hub page
+A dice game for two players - :fire: DOM manipulation practice  :game_die:
 
-My first project, from a tutorial by Jonas Schmedtmann in his Udemy course: https://www.udemy.com/the-complete-javascript-course/
-
-Minor styling changed for practice
+My first project, learned through a Udemy course by Jonas Schmedtmann: https://www.udemy.com/the-complete-javascript-course/
 
 Otherwise known as the 'pig game'
